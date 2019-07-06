@@ -33,5 +33,8 @@ public class QuickSort {
 		a[i + 1] = a[high];
 		a[high] = temp;
 		return i + 1;
+
+
 	}
 }
+
